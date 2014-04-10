@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "bundler", ">= 1.3", "< 2.0"
-  spec.add_dependency "railties", "~> 4.0.4"
+  spec.add_dependency "railties", "~> 4.1.0"
   spec.add_dependency "interactor", "~> 2.1.0"
   spec.add_dependency "active_model_serializers", "~> 0.8.1"
 

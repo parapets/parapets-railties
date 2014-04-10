@@ -1,5 +1,5 @@
 require 'rails/application'
-require 'parapets/railties/application/default_middleware_stack'
+require 'rails/application/default_middleware_stack'
 
 module Parapets
   module Railties
@@ -18,7 +18,7 @@ module Parapets
         end
 
         def default_middleware_stack_builder_class
-          DefaultMiddlewareStack
+          Rails::Application::DefaultMiddlewareStack
         end
 
         def route_set_class
