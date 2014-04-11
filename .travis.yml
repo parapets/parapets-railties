@@ -5,5 +5,6 @@ rvm:
   - 2.0.0
   - 2.1.0
   - jruby-19mode
-env:
-  - CODECLIMATE_REPO_TOKEN=c5cacba94a36f71cf4ed72d6562a3cedec54b23d19f87dfd014388ac9fb20e66
+addons:
+   code_climate:
+     repo_token: c5cacba94a36f71cf4ed72d6562a3cedec54b23d19f87dfd014388ac9fb20e66
