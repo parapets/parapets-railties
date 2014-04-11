@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/parapets/parapets-railties.svg?branch=master)](https://travis-ci.org/parapets/parapets-railties)
+
 # Parapets::Railties
 
 TODO: Write a gem description
