@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/parapets/parapets-railties.svg?branch=master)](https://travis-ci.org/parapets/parapets-railties)
+[![Code Climate](https://codeclimate.com/github/parapets/parapets-railties.png)](https://codeclimate.com/github/parapets/parapets-railties)
+[![Coverage](https://codeclimate.com/github/parapets/parapets-railties/coverage.png)](https://codeclimate.com/github/parapets/parapets-railties)
 
 # Parapets::Railties
 
